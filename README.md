@@ -5,7 +5,7 @@ luma.core.render, canvas,
  luma.oled.device, sh1106, ssd1306,
 PIL import ImageFont, ImageDraw,
 W1ThermSensor
-Original project: https://github.com/X-c0d3/pi-stats-monitor-oled-sh1106
+Original project: https://github.com/X-c0d3/pi-stats-monitor-oled-sh1106<br>
 
 
 ![alt text](https://github.com/misjah/Raspberry-pi-OLED-stats/blob/main/IMG_20230522_143032632.jpg)
