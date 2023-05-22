@@ -9,3 +9,5 @@ W1ThermSensor
 
 
 ![alt text](https://github.com/misjah/Raspberry-pi-OLED-stats/blob/main/IMG_20230522_143032632.jpg)
+ 
+![alt text](https://github.com/misjah/Raspberry-pi-OLED-stats/blob/main/Screenshot_20230427-191355_RaspController.png)
