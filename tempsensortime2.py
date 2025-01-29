@@ -47,4 +47,4 @@ while True:
         
         #draw.text((60, 60), current_date, font=oled_font, fill="white")
 
-    time.sleep(.1)
+    time.sleep(1)
